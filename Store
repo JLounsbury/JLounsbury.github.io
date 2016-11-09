@@ -1,0 +1,158 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+  <title>J Lounsbury Photography</title>
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Smooth crolling CSS -->
+  <link href="css/scrolling-nav.css" rel="stylesheet">
+
+  <link href="css/style.css" rel="stylesheet">
+  <!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+
+</head>
+
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+<!-- Navigation Bar -->
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div clas="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation"</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+      <a class="navbar-brand active" href="#">J Lounsbury Photography</a>
+    </div>
+
+    <div id="navbar" class="collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="" class="page-scroll">Home</a></li>
+        <li><a href="" class="page-scroll">Blog</a></li>
+        <li><a href="" class="page-scroll">Gallery</a></li>
+        <li><a href="" class="page-scroll">Store</a></li>
+        <li><a href="" class="page-scroll">News</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!-- Navigation Bar -->
+
+<!-- Store Page Contents -->
+
+<section id="StorePage">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-1 col-md-1 col-sm-1">
+            </div>
+            <div class="col-lg-10 col-md-10 col-sm-10">
+                <div class="panel panel-default" id="Panel">
+                    <p>
+                        Welcome to the new J Lounsbury Photography Store! Here we will display items for sale. To purchase, e-mail me and I will set-up your order.
+                    </p>
+                </div>
+                </br>
+                </br>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>
+                                Prints
+                            </th>
+                            <th>
+                                Specialty Items
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Row 1 -->
+                        <tr>
+                            <td>
+                                8.5x11 Print - $20
+                            </td>
+                            <td>
+                                2013 Calendars - $2 - (Limited Quantity)
+                            </td>
+                        </tr>
+                        <!-- Row 1 -->
+
+                        <!-- Row 2 -->
+                        <tr>
+                            <td>
+                                8.5x11 Print Matted & Framed - $60
+                            </td>
+                            <td>
+                                12-Pack Custom Greeting Cards - $20
+                            </td>
+                        </tr>
+                        <!-- Row 2 -->
+
+                        <!-- Row 3 -->
+                        <tr>
+                            <td>
+                                13x19 Print - $70
+                            </td>
+                            <td>
+                                Single Custom Greeting Card - $4
+                            </td>
+                        </tr>
+                        <!-- Row 3 -->
+
+                        <!-- Row 4 -->
+                        <tr>
+                            <td>
+                                13x19 Print Matted & Framed - $225
+                            </td>
+                            <td>
+                                Private Workshop - $125HR.
+                            </td>
+                        </tr>
+                        <!-- Row 4 -->
+
+                        <!-- Row 5 -->
+                        <tr>
+                            <td>
+                                13x19 Metal Print - $325
+                            </td>
+                            <td>
+                                Group Workshop - $100/HR.
+                            </td>
+                        </tr>
+                        <!-- Row 5 -->
+
+                        <!-- Row 6 -->
+                        <tr>
+                            <td>
+                                17x22 Print - $85
+                            </td>
+                            <td>
+                                Birding Guide - $20
+                            </td>
+                        </tr>
+                        <!-- Row 6 -->
+
+                        <!-- Row 7 -->
+                        <tr>
+                            <td>
+                                17x22 Print Matted & Framed - $300
+                            </td>
+                            <td>
+                                
