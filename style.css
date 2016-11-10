@@ -1,0 +1,51 @@
+
+.carousel
+{
+  margin-top: 10px;
+  width: 100%;
+  height: 50%;
+  color: black;
+}
+
+#HomePanel
+{
+  margin-top: 10px;
+  background-color: black;
+  color: gray;
+  border-color: black;
+}
+
+#AboutPanel
+{
+  margin-top: 20px;
+  background-color: black;
+  color: gray;
+  border-color: black;
+}
+
+.SectionTitle
+{
+  height: 35px;
+  margin-top: 10px;
+  background-color: gray;
+  color: black;
+  text-align: center;
+  font-size: 25px;
+}
+
+#gallery
+{
+  margin-top: 20px;
+}
+
+.thumbnail
+{
+  background-color: black;
+}
+
+.panel-heading
+{
+  background-color: black;
+}
+
+
