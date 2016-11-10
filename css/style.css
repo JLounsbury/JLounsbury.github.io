@@ -25,10 +25,10 @@
 
 #SectionTitle
 {
-  height: 55px;
+  height: 65px;
   margin-top: 30px;
   /*background-color: gray;*/
-  color: white;
+  color: gray;
   background: linear-gradient(black,gray,black);
   text-align: center;
   font-size: 35px;
