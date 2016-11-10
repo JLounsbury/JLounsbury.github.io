@@ -29,7 +29,7 @@
   margin-top: 30px;
   /*background-color: gray;*/
   color: black;
-  background: linear-gradient(black,white,black);
+  background: linear-gradient(black,white 20%,black);
   text-align: center;
   font-size: 40px;
 }
