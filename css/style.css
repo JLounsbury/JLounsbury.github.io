@@ -1,5 +1,5 @@
 
-.carousel
+#carousel
 {
   margin-top: 10px;
   width: 100%;
@@ -31,11 +31,6 @@
   color: black;
   text-align: center;
   font-size: 25px;
-}
-
-#Carousel
-{
-  margin-bottom: 40px;
 }
 
 #gallery
