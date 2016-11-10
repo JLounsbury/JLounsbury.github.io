@@ -23,13 +23,21 @@
   border-color: black;
 }
 
+#Panel
+{
+  margin-top: 40px;
+  background-color: black;
+  color: gray;
+  border-color: black;
+}
+
 #SectionTitle
 {
   height: 65px;
   margin-top: 30px;
   /*background-color: gray;*/
   color: black;
-  background: linear-gradient(black,white 20%,black);
+  background: linear-gradient(black 10%,white 20%,black 10%);
   text-align: center;
   font-size: 40px;
 }
