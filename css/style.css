@@ -47,6 +47,14 @@
   margin-top: 40px;
 }
 
+#news
+{
+  margin-top: 50px;
+  background-color: black;
+  color: gray;
+  border-color: black;
+}
+
 .thumbnail
 {
   background-color: black;
